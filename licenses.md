@@ -1,5 +1,3 @@
-# Licenses
-
 ### Lottie-iOS (by Airbnb)
 
 [lottie-ios/LICENSE at master · airbnb/lottie-ios](https://github.com/airbnb/lottie-ios/blob/master/LICENSE)
