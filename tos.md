@@ -1,121 +1,34 @@
-# Terms of Service
+**Terms & Conditions**
 
-Last revised on [DATE]
+By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to ViNotes.
 
-### The Gist
+ViNotes is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
 
-Work Montage, LLC operates the Mocksup service, which we hope you use. If you use it, please use it responsibly. If you don't, we'll have to terminate your account.
+The ViNotes app stores and processes personal data that you have provided to us, to provide our Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the ViNotes app won’t work properly or at all.
 
-For paid accounts, you'll be charged on a monthly basis. You can cancel anytime, but there are no refunds.
+The app does use third-party services that declare their Terms and Conditions.
 
-You own the source material that you provide to Mocksup and you're responsible for keeping it safe.
+Link to Terms and Conditions of third-party service providers used by the app
 
-The Terms of Service, Mocksup itself, and our prices can change at any time. We'll warn you 30 days in advance of any price changes. We'll try to warn you about major changes to the Terms of Service or Mocksup, but we make no guarantees.
+*   [Google Play Services](https://policies.google.com/terms)
+*   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
 
-That's the basic idea, but You must read through the entire Terms of Service below and agree with all the details before You use any of our sites (whether or not you have created an account).
+You should be aware that there are certain things that ViNotes will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but ViNotes cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
 
-### Reuse
+If you’re using the app outside of an area with Wi-Fi, you should remember that the terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third-party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
 
-This document is an adaptation of the [Heroku Terms of Service](http://legal.heroku.com/tos), which is turn an adaptation of the [Google App Engine Terms of Service](http://code.google.com/appengine/terms.html). The original work has been modified with permission under the [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/). Neither Heroku, Inc. nor Google, Inc. is not connected with and does not sponsor or endorse Work Montage or its use of the work.
+Along the same lines, ViNotes cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, ViNotes cannot accept responsibility.
 
-You're welcome to adapt and use this document for your own needs. If you make an improvement, we'd appreciate it if you would let us know so we can consider improving our own document.
+With respect to ViNotes’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavor to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. ViNotes accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
 
-### Your Agreement with Work Montage
+At some point, we may wish to update the app. The app is currently available on Android & iOS – the requirements for the both systems(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. ViNotes does not promise that it will always update the app so that it is relevant to you and/or works with the Android & iOS version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
 
-Your use of the Work Montage service is governed by this agreement (the "Terms"). "Work Montage" means Work Montage Inc. The "Service" means the services Work Montage makes available include our web sites ([http://mocksup.com/](http://mocksup.com/) and [http://workmontage.com/](http://workmontage.com/)), our blog, our API, and any other software, sites, and services offered by Work Montage in connection to any of those. "Customer Work Product" means any images you submit to Work Montage for the purpose of using the Service.
+**Changes to This Terms and Conditions**
 
-In order to use the Service, You (the "Customer", "You", or "Your") must first agree to the Terms. You understand and agree that Work Montage will treat Your use of the Service as acceptance of the Terms from that point onwards.
+We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page.
 
-Work Montage may make changes to the Terms from time to time. You may reject the changes by terminating Your account. You understand and agree that if You use the Service after the date on which the Terms have changed, Work Montage will treat Your use as acceptance of the updated Terms.
+These terms and conditions are effective as of 2023-01-26
 
-If you have any question about the Terms, please contact Jim Van Fleet at [jim@mocksup.com](mailto:jim@mocksup.com).
+**Contact Us**
 
-### Your Account
-
-- You may not use the Service if You are a person barred from receiving the Service under the laws of the United States or other countries, including the country in which You are resident or from which You use the Service.
-- You may not use the service unless you are over the age of 13.
-- You must be a human. Accounts created by automated methods are not permitted.
-
-### Use of the Service
-
-- You must provide accurate and complete registration information any time You register to use the Service.
-- You are responsible for the security of Your passwords and for any use of Your account.
-- Your use of the Service must comply with all applicable laws, regulations and ordinances.
-- You agree to not engage in any activity that interferes with or disrupts the Service.
-- Work Montage reserves the right to enforce quotas and usage limits to any resources at its sole discretion, with or without notice, which may result in Work Montage disabling or throttling your usage of the Service for any amount of time.
-- You may not allow multiple people to use the same account or otherwise access the Service in a manner intended to avoid incurring fees.
-
-### Service Policies and Privacy
-
-The Service shall be subject to the privacy policy for the Service available at privacy policy. You agree to the use of Your data in accordance with Work Montage's privacy policies.
-
-### Fees for Use of the Service
-
-- The Service may be provided to You without charge up with certain limits or for a certain "trial" period of time.
-- Usage over this limit (or after the "trial" period) or requires Your purchase of additional resources or services.
-- For all purchased resources and services, we will charge Your credit card on a monthly basis.
-- Payments are non-refundable. There will be no refunds or credits for partial months of service, downgrade refunds, or refunds for months unused with an open account.
-- Charges are solely based on Work Montage's measurements of Your use of the Service, unless otherwise agreed to in writing.
-- All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities, and You shall be responsible for payment of all such taxes, levies, or duties.
-- Work Montage may change its fees and payment policies for the Service by notifying You at least thirty (30) days before the beginning of the billing cycle in which such change will take effect.
-
-### Cancellation and Termination
-
-- You must cancel Your account via our support channel at this time.
-- You will not receive any refunds if You cancel Your account.
-- If You cancel the Service before the end of Your current paid up month, Your cancellation will take effect immediately and You will not be charged again.
-- All of Customer Work Product and Content will, within a reasonable amount of time to be determined solely by Work Montage, be deleted from the Service upon cancellation.
-- You agree that Work Montage, in its sole discretion and for any or no reason, may terminate or suspend Your account. You agree that any termination of Your access to the Service may be without prior notice, and You agree that Work Montage will not be liable to You or any third party for such termination.
-
-### Customer Work Product
-
-- Work Montage claims no ownership or control over any Customer Work Product. You retain copyright and any other rights You already hold in the Customer Work Product and You are responsible for protecting those rights, as appropriate.
-- You understand that public projects display Customer Work Product to any party on the Internet, including search engines and web spiders.
-- You understand that private projects will display Customer Work Product to You and any collaborators that you designate for that project.
-- You retain sole responsibility for any collaborators or third-party services that you allow to view Customer Work Product and entrust them at your own risk.
-- Work Montage is not responsible if you fail to configure, or misconfigure, your project and inadvertently allow unauthorized parties view any Customer Work Product.
-
-### Ideas and Feedback
-
-You may choose to or we may invite You to submit comments or ideas about the Service, including but not limited to ideas about improving the Service or our products ("Ideas"). By submitting any Idea, You agree that Your disclosure is unsolicited and without restriction and will not place Work Montage under any fiduciary or other obligation, and that we are free to use the Idea without any additional compensation to You, and/or to disclose the Idea on a non-confidential basis or otherwise to anyone.
-
-### Modification of the Service
-
-- You acknowledge and agree that the Service may change from time to time without prior notice to You.
-- Changes include, without limitation, changes to fee and payment policies, security patches, added or removed functionality, and other enhancements or restrictions.
-- Work Montage shall not be liable to you or to any third party for any modification, price change, suspension or discontinuance of the Service.
-
-### External Resources
-
-The Services may include hyperlinks to other web sites or content or resources or email content. You acknowledge and agree that Work Montage is not responsible for the availability of any such external sites or resources, and does not endorse any advertising, products or other materials on or available from such web sites or resources.
-
-### License from Work Montage and Restrictions
-
-Work Montage gives You a personal, worldwide, royalty-free, non-assignable and non-exclusive license to use the software provided to You by Work Montage as part of the Service as provided to You by Work Montage. This license is for the sole purpose of enabling You to use and enjoy the benefit of the Service as provided by Work Montage, in the manner permitted by the Terms.
-
-You may not (and You may not permit anyone else to): (a) copy, modify, create a derivative work of, reverse engineer, decompile or otherwise attempt to extract the source code of the Service or any part thereof, unless this is expressly permitted or required by law, or unless You have been specifically told that You may do so by Work Montage, in writing (e.g., through an open source software license); or (b) attempt to disable or circumvent any security mechanisms used by the Service.
-
-Open source software licenses for components of the Service released under an open source license constitute separate written agreements. To the limited extent that the open source software licenses expressly supersede these Terms, the open source licenses govern Your agreement with Work Montage for the use of the components of the Service released under an open source license.
-
-### Exclusion of warranties
-
-- You expressly understand and agree that your use of the service is at your sole risk and that the service is provided "as is" and "as available.".
-- You agree that Work Montage has no responsibility or liability for the deletion or failure to store any Content and other communications maintained or transmitted through use of the Service. You further acknowledge that You are solely responsible for securing and backing up Customer Work Product.
-- Work Montage does not warrant to you that: (a) your use of the service will meet your requirements, (b) your use of the service will be uninterrupted, timely, secure or free from error, (c) the results or data provided by the Service will be accurate, (d) the quality of the service will meet your expectations and (e) any errors in the Service will be fixed.
-
-### Limitation of liability
-
-You expressly understand and agree that Work Montage, its subsidiaries and affiliates, and its licensors shall not be liable to you for any direct, indirect, incidental, special consequential or exemplary damages which may be incurred by you, however caused and under any theory of liability. This shall include, but not be limited to, any loss of profit (whether incurred directly or indirectly), any loss of goodwill or business reputation, any loss of data suffered, cost of procurement of substitute goods or services, or other intangible loss (whether or not Work Montage has been advised of or should have been aware of the possibility of any such losses arising).
-
-### Indemnification
-
-You agree to hold harmless and indemnify Work Montage, and its subsidiaries, affiliates, officers, agents, employees, advertisers, licensors, suppliers or partners (collectively "Work Montage and Partners") from and against any third party claim arising from or in any way related to (a) Your breach of the Terms, (b) Your use of the Service, (c) Your violation of applicable laws, rules or regulations in connection with the Service, or (d) Your Customer Work Product, including any liability or expense arising from all claims, losses, damages (actual and consequential), suits, judgments, litigation costs and attorneys' fees, of every kind and nature. In such a case, Work Montage will provide You with written notice of such claim, suit or action.
-
-### General Legal Terms
-
-The Terms constitute the whole legal agreement between You and Work Montage and govern Your use of the Service and completely replace any prior agreements between You and Work Montage in relation to the Service.
-
-You agree that if Work Montage does not exercise or enforce any legal right or remedy which is contained in the Terms (or which Work Montage has the benefit of under any applicable law), this will not be taken to be a formal waiver of Work Montage's rights and that those rights or remedies will still be available to Work Montage.
-
-Work Montage shall not be liable for failing or delaying performance of its obligations resulting from any condition beyond its reasonable control, including but not limited to, governmental action, acts of terrorism, earthquake, fire, flood or other acts of God, labor conditions, power failures, and Internet disturbances.
-
+If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at office@vinotes.app.
